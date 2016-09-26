@@ -2,9 +2,9 @@ Assignment 0
 
 Due at 4:59pm on Monday, 9/26/2016
 
-Name: Markus Woltjer
+Name: Dominic Wasko
 
-ONID ID: woltjerm
+ONID ID: waskod
 
 Link to my CS 290 page: CS290_PAGE_URL
 
